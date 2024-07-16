@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Application\\Journey.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Application\\Journey.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Application\\Journey.Application.csproj",
+        "projectName": "Journey.Application",
+        "projectPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Application\\Journey.Application.csproj",
+        "packagesPath": "C:\\Users\\Danilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Communication\\Journey.Communication.csproj": {
+                "projectPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Communication\\Journey.Communication.csproj"
+              },
+              "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Exception\\Journey.Exception.csproj": {
+                "projectPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Exception\\Journey.Exception.csproj"
+              },
+              "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Infraestructure\\Journey.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Infraestructure\\Journey.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Communication\\Journey.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Communication\\Journey.Communication.csproj",
+        "projectName": "Journey.Communication",
+        "projectPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Communication\\Journey.Communication.csproj",
+        "packagesPath": "C:\\Users\\Danilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Exception\\Journey.Exception.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Exception\\Journey.Exception.csproj",
+        "projectName": "Journey.Exception",
+        "projectPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Exception\\Journey.Exception.csproj",
+        "packagesPath": "C:\\Users\\Danilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Exception\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Infraestructure\\Journey.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Infraestructure\\Journey.Infraestructure.csproj",
+        "projectName": "Journey.Infraestructure",
+        "projectPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Infraestructure\\Journey.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Danilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danilo\\Documents\\Projetos\\nextlevelweek\\Journey\\Journey.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

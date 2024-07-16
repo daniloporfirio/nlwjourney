@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Journey.Infraestructure": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
