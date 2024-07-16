@@ -18,6 +18,7 @@ C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Infraestructure
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Infraestructure\obj\Debug\net8.0\Journey.Infraestructure.AssemblyInfoInputs.cache
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Infraestructure\obj\Debug\net8.0\Journey.Infraestructure.AssemblyInfo.cs
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Infraestructure\obj\Debug\net8.0\Journey.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Infraestructure\obj\Debug\net8.0\Journey.Infraestructure.sourcelink.json
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Infraestructure\obj\Debug\net8.0\Journey.Infraestructure.dll
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Infraestructure\obj\Debug\net8.0\refint\Journey.Infraestructure.dll
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Infraestructure\obj\Debug\net8.0\Journey.Infraestructure.pdb

@@ -31,6 +31,7 @@ C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Application\obj
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfoInputs.cache
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfo.cs
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Application\obj\Debug\net8.0\Journey.Application.sourcelink.json
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.CopyComplete
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Application\obj\Debug\net8.0\Journey.Application.dll
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll

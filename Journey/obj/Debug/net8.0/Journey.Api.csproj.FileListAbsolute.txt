@@ -124,6 +124,7 @@ C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\Journey.Api.csproj.CoreCompileInputs.cache
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\Journey.Api.sourcelink.json
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\staticwebassets\msbuild.Journey.Api.Microsoft.AspNetCore.StaticWebAssets.props
@@ -138,3 +139,5 @@ C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\Journey.Api.pdb
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\Journey.Api.genruntimeconfig.cache
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\obj\Debug\net8.0\ref\Journey.Api.dll
+C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey\bin\Debug\net8.0\Sprache.dll

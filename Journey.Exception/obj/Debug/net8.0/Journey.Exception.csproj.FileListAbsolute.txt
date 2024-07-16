@@ -20,6 +20,7 @@ C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Exception\obj\D
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Exception\obj\Debug\net8.0\Journey.Exception.sourcelink.json
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
 C:\Users\Danilo\Documents\Projetos\nextlevelweek\Journey\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb

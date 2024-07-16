@@ -9,7 +9,8 @@ namespace Journey.Infraestructure
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=directory");
+            var pathDatabase = Environment.GetEnvironmentVariable("PATH_DATABASE");
+            optionsBuilder.UseSqlite($"Data Source={pathDatabase}");
         }
     }
 }
